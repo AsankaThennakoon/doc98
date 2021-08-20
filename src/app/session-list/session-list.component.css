@@ -1,0 +1,26 @@
+.icon{
+    font-size: 3em !important;
+    width: 60px !important;
+    margin-top: -0.5em;
+
+
+}
+
+.button{
+    margin-left: 2em !important;
+}
+
+.date{
+    color: cornflowerblue; 
+}
+.hospitalname{
+    color: darkblue;
+}
+.next{
+    color:darkgray;
+    background-color: darkgreen;
+    padding: 1em;
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
